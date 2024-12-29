@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a Big Data Engineer.
+
 ### About me:
 
 - 🎓 Experience : Spark, Kafka, Hive, GCP, Bigquery, SQL, Python, Scala
