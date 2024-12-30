@@ -14,7 +14,7 @@ I'm a Big Data Engineer.
 ### My skills:
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,ubuntu,redhat,debian,bsd,bash,vim,md,notion,github,apple&theme=light" title="skills"/>
-<br>
+
 <img src="https://go-skill-icons.vercel.app/api/icons?i=java,scala,python,php,lua,ruby,vscode,idea,kafka,elasticsearch,mongodb,mysql,postgres,redis,terraform&theme=light" title="skills"/>
-<br>
+
 <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,git,gitlab,ansible,docker,jenkins,maven,latex,html,nginx,spring,hibernate,sklearn,regex&theme=light" title="skills"/>
