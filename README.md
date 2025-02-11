@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-I'm a Big Data Engineer.
+Big Data & Machine Learning
 
 ### About me:
 
-- 🎓 Experience : Spark, Kafka, Hive, GCP, Bigquery, SQL, Python, Scala
-- 💻 I’m currently reading : Public Speaking for Success
+- 💻 Experience : Scala, Python, SQL, Spark, Kafka, Hive, GCP, BigQuery
+- 🎓 Certificate: <a href='https://www.coursera.org/account/accomplishments/specialization/7JDEBHEVUNFJ' target='_blank'>Google Data Analytics Certificate</a>
 - 🧩 Interested in : BitCoin, Travelling around the world 🚀
 - 💡 Equipments : Mac, HHKB, Walkman, G-Shock, Kindle, Pomodoro
 - ⚡ Motto : Be tough. Be resilient. Be invincible.
